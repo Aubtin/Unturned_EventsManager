@@ -1,0 +1,6 @@
+C:\Users\Aubtin\Documents\Visual Studio 2015\Projects\eventsmanager\eventsmanager\obj\Debug\eventsmanager.csprojResolveAssemblyReference.cache
+C:\Users\Aubtin\Documents\Visual Studio 2015\Projects\eventsmanager\eventsmanager\bin\Debug\eventsmanager.dll
+C:\Users\Aubtin\Documents\Visual Studio 2015\Projects\eventsmanager\eventsmanager\bin\Debug\eventsmanager.pdb
+C:\Users\Aubtin\Documents\Visual Studio 2015\Projects\eventsmanager\eventsmanager\obj\Debug\eventsmanager.dll
+C:\Users\Aubtin\Documents\Visual Studio 2015\Projects\eventsmanager\eventsmanager\obj\Debug\eventsmanager.pdb
+C:\Users\Aubtin\documents\visual studio 2015\Projects\eventsmanager\eventsmanager\bin\Debug\Assembly-CSharp.dll
